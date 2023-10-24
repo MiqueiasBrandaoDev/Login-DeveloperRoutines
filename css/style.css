@@ -1,0 +1,11 @@
+body{
+        background-image: linear-gradient(to right, rgb(86, 12, 76), rgba(16, 13, 115, 0.888));
+}
+
+.btn-primary{
+        background-color: rgba(16, 13, 115, 0.888);
+}
+
+.card{
+    background-color: rgb(201, 201, 201);
+}
